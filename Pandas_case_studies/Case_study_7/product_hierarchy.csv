@@ -1,0 +1,19 @@
+,id,parent_id,level_text,level_name
+0,1,,Womens,Category
+1,2,,Mens,Category
+2,3,1,Jeans,Segment
+3,4,1,Jacket,Segment
+4,5,2,Shirt,Segment
+5,6,2,Socks,Segment
+6,7,3,Navy Oversized,Style
+7,8,3,Black Straight,Style
+8,9,3,Cream Relaxed,Style
+9,10,4,Khaki Suit,Style
+10,11,4,Indigo Rain,Style
+11,12,4,Grey Fashion,Style
+12,13,5,White Tee,Style
+13,14,5,Teal Button Up,Style
+14,15,5,Blue Polo,Style
+15,16,6,Navy Solid,Style
+16,17,6,White Striped,Style
+17,18,6,Pink Fluro Polkadot,Style
